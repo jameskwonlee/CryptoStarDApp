@@ -14,6 +14,8 @@ Truffle - v5.0.34
 OpenZeppelin - 2.1.2 
 Solidity 0.4.24;
 
+Truffle-config.js file is not viewable here, but must be included. 
+It is set to Rinkeby network, using the infura key, and metamask seed. 
 
 
 
