@@ -4,7 +4,9 @@
 Ethereum Dapp that stores unique stars as ERC-721 tokens. A simple Javascript and HTML frontend allows users to input their own unique Star Token names and Star ID's. With Metamask, the user can see this transaction on the Rinkeby testnet blockchain.
 
 Developer has set the ERC-721 Token Name to "Cool Star Token" 
+
 ERC-721 Token Symbol - "CST"
+
 “Token Address” on the Rinkeby Network: 0x32008fc5E058F3D04f012D8500985378579D54fc
 
 Versions Used: 
