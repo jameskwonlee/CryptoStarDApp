@@ -1,4 +1,5 @@
 # CryptoStarDapp
+9.18.19 - Developed by James Kwon Lee 
 Ethereum Dapp that stores unique stars as ERC-721 tokens. A simple Javascript and HTML frontend allows users to input their own unique Star Token names.
 
 Versions Used: Truffle - v5.0.34 OpenZeppelin - 2.1.2 Solidity 0.4.24;
